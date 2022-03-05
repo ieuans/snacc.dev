@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7aef7db.css",
+    "main.js": "/static/js/main.0f50a179.js",
+    "static/js/787.e91c35c5.chunk.js": "/static/js/787.e91c35c5.chunk.js",
+    "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.03c38496322925fec242.ttf",
+    "index.html": "/index.html",
+    "main.d7aef7db.css.map": "/static/css/main.d7aef7db.css.map",
+    "main.0f50a179.js.map": "/static/js/main.0f50a179.js.map",
+    "787.e91c35c5.chunk.js.map": "/static/js/787.e91c35c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7aef7db.css",
+    "static/js/main.0f50a179.js"
+  ]
+}
